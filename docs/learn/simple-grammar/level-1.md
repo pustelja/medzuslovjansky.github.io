@@ -3,8 +3,9 @@ sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto1.html
-description: "Explore the simplified grammar of Interslavic, or Slovianto, for a basic linguistic comparison."
-tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
+description: "Slovianto Level 1 — a minimal constructed language experiment, not to be confused with the full Interslavic language."
+tags: [slovianto, simplified grammar, constructed language, language learning]
+noIndex: true
 ---
 
 # Level 1
@@ -85,7 +86,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 
 - The object forms are: :isv[mene] „me”, :isv[tebe] „you (:abbr[sg.]), thee”, :isv[jego] „him”, :isv[ju] „her”, :isv[nas] „us”, :isv[vas] „you (:abbr[pl.])”, :isv[jih] „them”.
 
-- Like most natural Slavic languages, Interslavic has T-V distinction, i.e. :isv[vy] and :isv[vas] are used not only for the second person plural, but also as a polite form in the singular. :isv[Ty]/:isv[tebe] are used to address friends, relatives and children.
+- Like most natural Slavic languages, :notr[Slovianto] has T-V distinction, i.e. :isv[vy] and :isv[vas] are used not only for the second person plural, but also as a polite form in the singular. :isv[Ty]/:isv[tebe] are used to address friends, relatives and children.
 
 - :notr[Slovianto] also has a reflexive pronoun, :isv[se], meaning „oneself, myself, yourself, ...”. It has no subject form, only an object form.
 

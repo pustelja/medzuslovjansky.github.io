@@ -3,8 +3,9 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto2.html
-description: "Explore the more advanced grammar of Slovianto, a simplified form of Interslavic, for a basic linguistic comparison."
-tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
+description: "Slovianto Level 2 — a minimal constructed language experiment, not to be confused with the full Interslavic language."
+tags: [slovianto, simplified grammar, constructed language, language learning]
+noIndex: true
 ---
 
 import Tabs from '@theme/Tabs';

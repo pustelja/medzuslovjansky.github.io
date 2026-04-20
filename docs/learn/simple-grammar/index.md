@@ -2,11 +2,16 @@
 sidebar_position: 8
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-description: "Explore the simplified grammar of Interslavic, or Slovianto, for a basic linguistic comparison."
-tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
+description: "Slovianto is a highly simplified constructed language experiment by Jan van Steenbergen, not to be confused with the full Interslavic language."
+tags: [slovianto, simplified grammar, constructed language, language learning]
+noIndex: true
 ---
 
 # Simple grammar
+
+:::caution Not Interslavic
+Slovianto is **not** Interslavic. It is a separate, highly simplified experiment by Jan van Steenbergen, created to help non-Slavs gain a minimal foothold. The full Interslavic language has complete grammar with gender, cases, aspect, and conjugation — see the [grammar section](/learn/grammar/) instead.
+:::
 
 Simplified grammar, or :notr[Slovianto], is a highly simplified form of Interslavic that allows non-Slavic people to express themselves at a very basic level when visiting Slavic countries or maintaining contact with Slavs via the Internet. Grammar is limited to a bare minimum, and forms that are not strictly necessary are not used at all. Because it does not contain anything that cannot be found in the Slavic languages, the result wil not look or sound too awkward to Slavic speakers, but rather remind them of the kind of language used by small children.
 
