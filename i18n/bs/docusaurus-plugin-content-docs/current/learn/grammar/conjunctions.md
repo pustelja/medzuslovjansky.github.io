@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Veznici
 
-## Veznici \{#conjunctions}
-
 Veznik je dio govora koji povezuje dvije riječi, rečenice, fraze ili rečenice. Veznici su nepromjenjivi i stoje između stavki koje spajaju. Postoje tri tipa veznika: _koordinacijski veznici_ spajaju dvije ili više stavki jednake sintaksičke važnosti, _korelativni veznici_ su veznici koji rade u parovima, i _podređeni veznici_ povezuju zavisnu klauzulu sa nezavisnom klauzulom. Evo (nepotpune) liste:
 
-### Koordinacijski veznici \{#coordinating-conjunctions}
+## Koordinacijski veznici \{#coordinating-conjunctions}
 
 :isv[a] „i, ali”
 :isv[a takože] „kao i”
@@ -29,7 +27,7 @@ Veznik je dio govora koji povezuje dvije riječi, rečenice, fraze ili rečenice
 :isv[poněže] „dok”
 :isv[ubo] „dakle”
 
-### Korelativni veznici \{#correlative-conjunctions}
+## Korelativni veznici \{#correlative-conjunctions}
 
 **`čim` ... `tym` ...** „the ... the ...”
 **`ili` ... `ili` ...** „ili ... ili ...”
@@ -39,14 +37,14 @@ Veznik je dio govora koji povezuje dvije riječi, rečenice, fraze ili rečenice
 **`ne jedino` ... `ale takože`** „ne samo ... nego i ...”
 **`ni` ... `ni` ...** „ni ... ni ...”
 
-### Podređeni veznici \{#subordinate-conjunctions}
+## Podređeni veznici \{#subordinate-conjunctions}
 
 :isv[aby] „kako bi”
 :isv[ače] „iako, ipak”
 **`ako` (`li`)** „ako”
 :isv[ako ne] „osim ako”
 :isv[či] „da li, ako”
-:isv[dokolě] „dok, dok
+:isv[dokolě] „dok, dok”
 :isv[dopoka] „sve dok”
 :isv[dopoka ne] „do, do”
 :isv[hoti] „iako”
@@ -60,7 +58,8 @@ Veznik je dio govora koji povezuje dvije riječi, rečenice, fraze ili rečenice
 :isv[odkogda/odkogdy] „od tada, dokle god, od tada”
 :isv[odkųd] „od”
 :isv[poka] „dok, dotle”
-:isv[pokoliko] „utoliko što, ukoliko” `poneže` „dok”
+:isv[pokoliko] „utoliko što, ukoliko”
+`poneže` „dok”
 :isv[tako že] „tako da”
 :isv[toliko kako] „koliko“
 :isv[tomu že] „jer”

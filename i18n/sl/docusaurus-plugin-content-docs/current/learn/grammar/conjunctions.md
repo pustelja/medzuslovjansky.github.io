@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Vezniki
 
-## Vezniki \{#conjunctions}
-
 Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli. Vezniki so nespremenljivi in stojijo med predmeti, ki jih povezujejo. Obstajajo tri vrste veznikov: _usklajevalni vezniki_ združujejo dva ali več elementov enakega skladenjskega pomena, _korelativni vezniki_ so vezniki, ki delujejo v paru, in _podrejeni vezniki_ povezujejo odvisni stavek z neodvisnim stavkom. Tukaj je (nepopoln) seznam:
 
-### Usklajevalni vezniki \{#coordinating-conjunctions}
+## Usklajevalni vezniki \{#coordinating-conjunctions}
 
 :isv[a] "in, ampak"
 :isv[a takože] "kot tudi"
@@ -29,7 +27,7 @@ Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli
 :isv[poněže] "ker"
 :isv[ubo] "zato"
 
-### Korelativni vezniki \{#correlative-conjunctions}
+## Korelativni vezniki \{#correlative-conjunctions}
 
 **`čim` ... `tym` ...** „the ... the ...”
 **`ili` ... `ili` ...** „ali ... ali ...”
@@ -39,14 +37,14 @@ Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli
 **`ne jedino` ... `ale takože`** „ne le ... ampak tudi ...”
 **`ni` ... `ni` ...** „niti ... niti ...”
 
-### Podredni vezniki \{#subordinate-conjunctions}
+## Podredni vezniki \{#subordinate-conjunctions}
 
 :isv[aby] "da bi"
 :isv[ače] "čeprav, vendar"
 **`ako` (`li`)** „če”
 :isv[ako ne] "razen če"
 :isv[či] "ali, če"
-:isv[dokolě] „dokler, dokler
+:isv[dokolě] „dokler, dokler”
 :isv[dopoka] "dokler"
 :isv[dopoka ne] "do, dokler"
 :isv[hoti] "čeprav"
@@ -60,7 +58,8 @@ Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli
 :isv[odkogda/odkogdy] „odkar, dokler, odkar”
 :isv[odkųd] "od"
 :isv[poka] "dokler"
-:isv[pokoliko] „v kolikor, kolikor” `poneže` „ker”
+:isv[pokoliko] „v kolikor, kolikor”
+`poneže` „ker”
 :isv[tako že] "tako da"
 :isv[toliko kako] "kolikor"
 :isv[tomu že] "ker"

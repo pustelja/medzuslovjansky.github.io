@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Konjunkce
 
-## Konjunkce \{#conjunctions}
-
 Spojka je slovní druh, který spojuje dvě slova, věty, fráze nebo souvětí. Konjunkce jsou neměnné a stojí mezi položkami, které spojují. Existují tři typy spojek: _koordinační spojky_ spojují dvě nebo více položek stejné syntaktické důležitosti, _souvztažné spojky_ jsou spojky, které fungují ve dvojicích, a _podřazené spojky_ spojují závislou větu s nezávislou větou. Zde je (neúplný) seznam:
 
-### Souřadicí spojky \{#coordinating-conjunctions}
+## Souřadicí spojky \{#coordinating-conjunctions}
 
 :isv[a] „a, ale“
 :isv[a takože] „stejně jako“
@@ -29,7 +27,7 @@ Spojka je slovní druh, který spojuje dvě slova, věty, fráze nebo souvětí.
 :isv[poněže] „zatímco“
 :isv[ubo] „proto“
 
-### Korelační spojky \{#correlative-conjunctions}
+## Korelační spojky \{#correlative-conjunctions}
 
 ***`čim` ... `tym` ...** „the ... the ...“
 ***`ili` ... `ili` ...** „buď ... nebo ...“
@@ -39,14 +37,14 @@ Spojka je slovní druh, který spojuje dvě slova, věty, fráze nebo souvětí.
 ***`ne jedino` ... `ale takože`** „nejen ..., ale také ...“
 ***`ni` ... `ni` ...** „ani ... ani ...“
 
-### Podřadicí spojky \{#subordinate-conjunctions}
+## Podřadicí spojky \{#subordinate-conjunctions}
 
 :isv[aby] „aby“
 :isv[ače] „ačkoli“
 ***`ako` (`li`)** „pokud“
 :isv[ako ne] „pokud“
 :isv[či] „zda, pokud“
-:isv[dokolě] „dokud, dokud
+:isv[dokolě] „dokud, dokud“
 :isv[dopoka] „dokud“
 :isv[dopoka ne] „do, dokud“
 :isv[hoti] „ačkoli“
@@ -60,7 +58,8 @@ Spojka je slovní druh, který spojuje dvě slova, věty, fráze nebo souvětí.
 :isv[odkogda/odkogdy] „od té doby, tak dlouho, dokud, od té doby“
 :isv[odkųd] „od“
 :isv[poka] „zatímco, tak daleko jak“
-:isv[pokoliko] „nakolik, pokud“ `poneže` „zatímco“
+:isv[pokoliko] „nakolik, pokud“
+`poneže` „zatímco“
 :isv[tako že] „takže“
 :isv[toliko kako] „tolik jako“
 :isv[tomu že] „protože“

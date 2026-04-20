@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Spójniki
 
-## Spójniki \{#conjunctions}
-
 Spójnik to część mowy, która łączy ze sobą dwa słowa, zdania, frazy lub klauzule. Spójniki są niezmienne i stoją między elementami, które łączą. Istnieją trzy rodzaje spójników: _spójniki koordynujące_ łączą dwa lub więcej elementów o jednakowym znaczeniu składniowym, _spójniki korelacyjne_ to spójniki działające w parach, a _spójniki podrzędne_ łączą zdanie zależne ze zdaniem niezależnym. Oto (niepełna) lista:
 
-### Spójniki koordynujące \{#coordinating-conjunctions}
+## Spójniki koordynujące \{#coordinating-conjunctions}
 
 :isv[a] „i, ale”
 :isv[a takože] „jak również”
@@ -29,7 +27,7 @@ Spójnik to część mowy, która łączy ze sobą dwa słowa, zdania, frazy lub
 :isv[poněže] „gdzie”
 :isv[ubo] „dlatego”
 
-### Spójniki współzależne \{#correlative-conjunctions}
+## Spójniki współzależne \{#correlative-conjunctions}
 
 **`čim` ... `tym` ...** „the… the…”
 **`ili` ... `ili` ...** „albo… albo…”
@@ -39,14 +37,14 @@ Spójnik to część mowy, która łączy ze sobą dwa słowa, zdania, frazy lub
 **`ne jedino` ... `ale takože`** „nie tylko… ale i…”
 **`ni` ... `ni` ...** „ani ... ani ...”
 
-### Spójniki podrzędne \{#subordinate-conjunctions}
+## Spójniki podrzędne \{#subordinate-conjunctions}
 
 :isv[aby] „aby”
 :isv[ače] „chociaż, chociaż”
 **`ako` (`li`)** „jeśli”
 :isv[ako ne] „chyba że”
 :isv[či] „czy, jeśli”
-:isv[dokolě] „o ile, póki
+:isv[dokolě] „o ile, póki”
 :isv[dopoka] „o ile”
 :isv[dopoka ne] „aż, aż”
 :isv[hoti] „chociaż”
@@ -60,7 +58,8 @@ Spójnik to część mowy, która łączy ze sobą dwa słowa, zdania, frazy lub
 :isv[odkogda/odkogdy] „odkąd, tak długo, jak”
 :isv[odkųd] „od”
 :isv[poka] „póki, póki”
-:isv[pokoliko] „o ile, o ile” `poneže` „o ile”
+:isv[pokoliko] „o ile, o ile”
+`poneže` „o ile”
 :isv[tako že] „tak że”
 :isv[toliko kako] „aż”
 :isv[tomu že] „ponieważ”

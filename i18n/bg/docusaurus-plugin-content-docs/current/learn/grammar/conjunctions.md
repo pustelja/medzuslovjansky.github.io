@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Съюзи
 
-## Съюзи \{#conjunctions}
-
 Съюзът е част от речта, която свързва две думи, изречения, фрази или клаузи. Съюзите са неизменни и стоят между елементите, които обединяват. Има три вида съюзи: _координиращите съюзи_ свързват два или повече елемента с еднаква синтактична важност, _корелативните съюзи_ са съюзи, които работят по двойки, и _подчинените съюзи_ свързват зависима клауза с независима клауза. Ето (непълен) списък:
 
-### Координиращи съюзи \{#coordinating-conjunctions}
+## Координиращи съюзи \{#coordinating-conjunctions}
 
 :isv[a] „и, но”
 :isv[a takože] „както и”
@@ -29,7 +27,7 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 :isv[poněže] „като има предвид“
 :isv[ubo] „следователно“
 
-### Корелативни съюзи \{#correlative-conjunctions}
+## Корелативни съюзи \{#correlative-conjunctions}
 
 **`čim` ... `tym` ...** „на ... на ...”
 **`ili` ... `ili` ...** „или ... или ...”
@@ -39,14 +37,14 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 **`ne jedino` ... `ale takože`** „не само ... но и ...”
 **`ni` ... `ni` ...** „нито ... нито ...”
 
-### Подчинени съюзи \{#subordinate-conjunctions}
+## Подчинени съюзи \{#subordinate-conjunctions}
 
 :isv[aby] „за да”
 :isv[ače] „въпреки, че“
 **`ako` (`li`)** „ако”
 :isv[ako ne] „освен ако”
 :isv[či] „дали, ако”
-:isv[dokolě] „докато, докато
+:isv[dokolě] „докато, докато”
 :isv[dopoka] „стига”
 :isv[dopoka ne] „до, докато”
 :isv[hoti] „въпреки че”
@@ -60,7 +58,8 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 :isv[odkogda/odkogdy] „оттогава, толкова дълго, колкото, оттогава”
 :isv[odkųd] „от”
 :isv[poka] „докато, доколкото“
-:isv[pokoliko] „доколкото, доколкото” `poneže` „като има предвид”
+:isv[pokoliko] „доколкото, доколкото”
+`poneže` „като има предвид”
 :isv[tako že] „така че”
 :isv[toliko kako] „колкото”
 :isv[tomu že] „защото”

@@ -10,11 +10,9 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 # Злучнікі
 
-## Злучнікі \{#conjunctions}
-
 Злучнік - гэта часціна мовы, якая злучае два словы, сказы, словазлучэнні або пункты. Злучнікі нязменныя і стаяць паміж прадметамі, якія яны злучаюць. Ёсць тры тыпы злучнікаў: _каардынацыйныя злучнікі_ аб'ядноўваюць два або больш прадметаў аднолькавай сінтаксічнай важнасці, _карэлятыўныя злучнікі_ з'яўляюцца злучнікамі, якія працуюць у пары, і _падпарадкавальныя злучнікі_ звязваюць залежны сказ з незалежным сказам. Вось (няпоўны) спіс:
 
-### Каардынацыйныя злучнікі \{#coordinating-conjunctions}
+## Каардынацыйныя злучнікі \{#coordinating-conjunctions}
 
 :isv[a] «і, але»
 :isv[a takože] "а таксама"
@@ -29,7 +27,7 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 :isv[poněže] "у той час як"
 :isv[ubo] "таму"
 
-### Суадносныя злучнікі \{#correlative-conjunctions}
+## Суадносныя злучнікі \{#correlative-conjunctions}
 
 **`čim` ... `tym` ...** "... ..."
 **`ili` ... `ili` ...** «альбо ..., альбо ...»
@@ -39,14 +37,14 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 **`ne jedino` ... `ale takože`** „не толькі... але і...”
 **`ni` ... `ni` ...** «ні ..., ні ...»
 
-### Падпарадкавальныя злучнікі \{#subordinate-conjunctions}
+## Падпарадкавальныя злучнікі \{#subordinate-conjunctions}
 
 :isv[aby] «каб»
 :isv[ače] "хаця, хоць"
 **`ako` (`li`)** «калі»
 :isv[ako ne] "калі"
 :isv[či] «ці, калі»
-:isv[dokolě] „пакуль, пакуль
+:isv[dokolě] „пакуль, пакуль”
 :isv[dopoka] "пакуль"
 :isv[dopoka ne] «да, пакуль»
 :isv[hoti] "хаця"
@@ -60,7 +58,8 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 :isv[odkogda/odkogdy] "з тых часоў, з таго часу, пакуль, з тых часоў"
 :isv[odkųd] "з"
 :isv[poka] "пакуль, пакуль"
-:isv[pokoliko] „паколькі, паколькі” `poneže` „у той час як”
+:isv[pokoliko] „паколькі, паколькі”
+`poneže` „у той час як”
 :isv[tako že] "так што"
 :isv[toliko kako] "столькі, колькі"
 :isv[tomu že] "таму што"

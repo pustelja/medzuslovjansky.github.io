@@ -43,7 +43,7 @@ A conjunction is a part of speech that connects two words, sentences, phrases or
 :isv[ako (li)] „if”
 :isv[ako ne] „unless”
 :isv[či] „whether, if”
-:isv[dokolě] „as long as, while
+:isv[dokolě] „as long as, while”
 :isv[dopoka] „as long as”
 :isv[dopoka ne] „till, until”
 :isv[hoti] „although”
@@ -57,7 +57,8 @@ A conjunction is a part of speech that connects two words, sentences, phrases or
 :isv[odkogda] / :isv[odkogdy] „ever since, for as long as, since”
 :isv[odkųd] „since”
 :isv[poka] „while, so far as”
-:isv[pokoliko] „inasmuch as, insofar as” :isv[poneže] „whereas”
+:isv[pokoliko] „inasmuch as, insofar as”
+:isv[poneže] „whereas”
 :isv[tako že] „so that”
 :isv[toliko kako] „as much as”
 :isv[tomu že] „because”
