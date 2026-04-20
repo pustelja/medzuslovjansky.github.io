@@ -11,7 +11,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] можно записать как на латинице, так и на кириллице, но здесь мы сосредоточимся на латинице:
 
-:::comComponent{name="MDSlovianto1"}
+:::component{name="MDSlovianto1"}
 - как _а_ по-английски :en[f**a**ther]
 - как на английском
 - как _ts_ по-английски «bi**ts**»
@@ -245,7 +245,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 ## Пример текста: В ресторане
 
-:::comComponent{name="MDSlovianto2"}
+:::component{name="MDSlovianto2"}
 - Добрый день! Ресторан открыт?
 - Добрый день. Да, мы открыты.
 - Здесь можно что-нибудь выпить?
@@ -263,7 +263,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 ## Базовый словарный запас
 
-:::comComponent{name="MDSlovianto3"}
+:::component{name="MDSlovianto3"}
 :::
 
 [1]: https://interslavic-dictionary.com
