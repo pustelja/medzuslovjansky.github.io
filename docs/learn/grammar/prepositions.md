@@ -2,67 +2,140 @@
 sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
-origin: http://steen.free.fr/interslavic/conjunctions.html
-description: "Learn about the usage, inflection, and examples of conjunctions in Interslavic. Discover how conjunctions connect words, sentences, phrases, and clauses together."
+origin: http://steen.free.fr/interslavic/prepositions.html
+description: "Learn about the usage, inflection, and examples of prepositions in Interslavic. Discover how prepositions govern different cases and their meanings in various contexts."
 tags: [interslavic, prepositions, conjunctions, grammar, language learning]
 ---
 
 # Prepositions
 
-## Conjunctions \{#conjunctions}
+Most prepositions in Interslavic govern the genitive. This is especially true for all prepositions that were derived from nouns, adjectives or adverbs.
+In the case of prepositions referring to place and time, the following can be assumed as a guideline, although there are exceptions:
 
-A conjunction is a part of speech that connects two words, sentences, phrases or clauses together. Conjunctions are invariable and stand between the items they conjoin. There are three types of conjunctions: _coordinating conjunctions_ join two or more items of equal syntactic importance, _correlative conjunctions_ are conjunctions that work in pairs, and _subordinate conjunctions_ link a dependent clause to an independent clause. Here is an (incomplete) list:
+- the **genitive case** is used when a movement away from/out of a location is indicated.
+- the **accusative case** is used when a movement towards/into a location is indicated;
+- the **instrumental** or **locative case** is used when the location is stable, i.e. there is no movement at all.
 
-### Coordinating conjunctions \{#coordinating-conjunctions}
+Prepositions should only be used according to their logical meaning, not according to national idioms. Here follows a list of prepositions in Interslavic:
 
-:isv[a] „and, but”
-:isv[a takože] „as well as”
-:isv[abo] „or”
-:isv[ale] „but”
-:isv[i] „and”
-:isv[ili] „or”
+## With the genitive
 
-:isv[jednako] „however”
-:isv[než, neželi] „than”
-:isv[pa] „so”
-:isv[poněže] „whereas”
-:isv[ubo] „therefore”
+* :isv[bez] – without
+* :isv[blizko] – near, close to
+* :isv[dlja] – for
+* :isv[do] – to, towards, till
+* :isv[iz] – from, out of
+* :isv[iz-medžu] – from between
+* :isv[iz-nad] – from above
+* :isv[iz-pod] – from under
+* :isv[iz-prěd] – from before
+* :isv[iz-srěd] – from among
+* :isv[iz-za] – from behind
+* :isv[kolo] – next to, around
+* :isv[kromě] – except
+* :isv[mimo] – past, by
+* :isv[naprotiv] – opposite
+* :isv[od] – of, from (away from); since; by (agent)
+* :isv[odnosno] – concering, about
+* :isv[okolo] – around; about, approximately
 
-### Correlative conjunctions \{#correlative-conjunctions}
+* :isv[podčas] – during, so long as
+* :isv[podle] – near, beside
+* :isv[pomimo] – in spite of
+* :isv[poprěk] – across
+* :isv[pored] – next to
+* :isv[poslě] – after
+* :isv[posrěd] – amidst, in the middle of, among
+* :isv[posrědstvom] – by means of, using
+* :isv[povrh] – to the upper side of, atop
+* :isv[srěd] – among, amid
+* :isv[suprotiv] – contrary to
+* :isv[u] – at, at the place of
+* :isv[vdolž] – along
+* :isv[vměsto] – instead of
+* :isv[vně] – outside of
+* :isv[vnutri] – inside, within
+* :isv[vslěd] – following, because of, as a result of
+* :isv[za] – during, in times of
 
-:isv[čim ... tym ...] „the ... the ...”
-:isv[ili ... ili ...] „either ... or ...”
-:isv[kako ... tako i ...] „both ... and ...”
+## With the dative
 
-:isv[koliko ... toliko ...] „the ... the ...”
-:isv[ne jedino ... ale takože] „not only ... but also ...”
-:isv[ni ... ni ...] „neither ... nor ...”
+* :isv[blagodare, dekujuči, hvala] – thanks to
+* :isv[k] – to, towards (direction)
+* :isv[po] – according to, per, by, in the manner of; for ... each, for ... a * piece
 
-### Subordinate conjunctions \{#subordinate-conjunctions}
+* :isv[protiv] – against
+:isv[soglasno, suglasno] – according to
 
-:isv[aby] „in order to”
-:isv[ače] „although, though”
-:isv[ako (li)] „if”
-:isv[ako ne] „unless”
-:isv[či] „whether, if”
-:isv[dokolě] „as long as, while
-:isv[dopoka] „as long as”
-:isv[dopoka ne] „till, until”
-:isv[hoti] „although”
-:isv[ibo] „since, because”
-:isv[jer, jerbo] „because”
-:isv[jestli] „if”
-:isv[kako by] „as if”
+## With the accusative
 
-:isv[kogda/kogdy] „when”
-:isv[li] „whether, if”
-:isv[odkogda] / :isv[odkogdy] „ever since, for as long as, since”
-:isv[odkųd] „since”
-:isv[poka] „while, so far as”
-:isv[pokoliko] „inasmuch as, insofar as” :isv[poneže] „whereas”
-:isv[tako že] „so that”
-:isv[toliko kako] „as much as”
-:isv[tomu že] „because”
-:isv[zato že] „because”
-:isv[že] „that”
-:isv[že by] „in order to, so that”
+* :isv[črěz, prěz] – through, across, via
+* :isv[po] – for (in pursuit of, to get something); for (the Xth time); up to
+* :isv[za] – for, because of, due to, in exchange for, in favour of, instead of
+
+## With the instrumental
+
+* :isv[ponad] – above, beyond
+* :isv[s, so] – with, together with; by means of, using
+
+## With the locative
+
+* :isv[o, ob] – about; concerning, regarding
+* :isv[po] – after, following; along(side); throughout, round, all over
+* :isv[pri] – near; during (rule of a king)
+
+## With the accusative and the instrumental
+
+The following five prepositions refer to place and (if applicable) time.
+The instrumental is used when the location is stable (:isv[Kot spi pod stolom] – "The cat is sleeping under the table"), the accusative expresses a motion toward it (:isv[Kot poběgl pod stol] – "The cat fled under the table").
+
+The preposition :isv[za] can also be used with the genitive and (in other meanings) the accusative, but because otherwise it belongs to the same category as the rest, it has been listed there separately.
+
+* :isv[medžu] – between (place & time)
+* :isv[nad] – above, over, beyond
+* :isv[pod] – under
+
+* :isv[prěd] – before, in front of, ahead of (place & time), prior to, ago
+* :isv[za] – behind (place), after (time)
+
+## With the accusative and the locative
+
+The prepositions :isv[v] and :isv[na] behave exactly like the previous category, except that for a stable location the locative is used instead of the instrumental.
+
+* :isv[na] (+ :abbr[loc.]) – on, at; (+ :abbr[acc.]) – on(to), unto
+* :isv[v, vo] (+ :abbr[loc.]) – in, within; (+ :abbr[acc.]) – into
+
+## Prepositional constructions
+
+The following combinations are no real prepositions, but are used as such and are often translated as prepositions. The list is of course far from being exhaustive.
+
+* :isv[bez obzira na] (:abbr[acc.]) – regardless
+* :isv[čto se tyče] (:abbr[gen.]) – regarding, with regard to
+* :isv[na prěkor] (:abbr[gen.]) – in defiance of
+* :isv[ne gledajuči na] (:abbr[acc.]) – disregarding, despite, in spite of, * notwithstanding
+* :isv[od strany] (:abbr[gen.]) – by, on the part of
+* :isv[po odnošenju k] (:abbr[dat.]) – regarding, with regard to
+* :isv[pod vodstvom] (:abbr[gen.]) – under the leadership of
+* :isv[s izključenjem] (:abbr[gen.]) – except, with the exception of
+* :isv[s obzirom na] (:abbr[acc.]) – with regard to
+* :isv[s pomočju] (:abbr[gen.]) – with the help of
+* :isv[sgodno s] (:abbr[instr.]) – conform
+* :isv[susedno do] (:abbr[gen.]) – next to, neighbouring to
+
+* :isv[v času] (:abbr[gen.]) – during
+* :isv[v imenu] (:abbr[gen.]) – in the name of
+* :isv[v obličju] (:abbr[gen.]) – in the face of
+* :isv[v odrazlikě od] (:abbr[gen.]) – unlike, in contrast to
+* :isv[v odnošenju k] (:abbr[dat.]) – regarding, with regard to
+* :isv[v ramah, v ramkah] (:abbr[gen.]) – within the framework of, as a part of
+* :isv[v protivnosti k] (:abbr[dat.]) – unlike, in opposition to
+* :isv[v smyslu] (:abbr[gen.]) – in the sense of
+* :isv[v različju od] (:abbr[gen.]) – unlike
+* :isv[v svezi s] (:abbr[instr.]) – in connection with
+* :isv[v těčenju] (:abbr[gen.]) – during
+* :isv[v vrěmenu] (:abbr[gen.]) – during
+* :isv[v zaměn za] (:abbr[acc.]) – instead of, in exchange for
+
+Many prepositions can also be used as prefixes. See [word formation][1] for details.
+
+[1]: ../vocabulary/word-formation.md#prefixes
