@@ -18,7 +18,7 @@ In the case of prepositions referring to place and time, the following can be as
 
 Prepositions should only be used according to their logical meaning, not according to national idioms. Here follows a list of prepositions in Interslavic:
 
-## With the genitive
+## With the genitive \{#with-the-genitive}
 
 * :isv[bez] – without
 * :isv[blizko] – near, close to
@@ -58,36 +58,35 @@ Prepositions should only be used according to their logical meaning, not accordi
 * :isv[vslěd] – following, because of, as a result of
 * :isv[za] – during, in times of
 
-## With the dative
+## With the dative \{#with-the-dative}
 
 * :isv[blagodare, dekujuči, hvala] – thanks to
 * :isv[k] – to, towards (direction)
-* :isv[po] – according to, per, by, in the manner of; for ... each, for ... a * piece
-
+* :isv[po] – according to, per, by, in the manner of; for ... each, for ... a piece
 * :isv[protiv] – against
-:isv[soglasno, suglasno] – according to
+* :isv[soglasno, suglasno] – according to
 
-## With the accusative
+## With the accusative \{#with-the-accusative}
 
 * :isv[črěz, prěz] – through, across, via
 * :isv[po] – for (in pursuit of, to get something); for (the Xth time); up to
 * :isv[za] – for, because of, due to, in exchange for, in favour of, instead of
 
-## With the instrumental
+## With the instrumental \{#with-the-instrumental}
 
 * :isv[ponad] – above, beyond
 * :isv[s, so] – with, together with; by means of, using
 
-## With the locative
+## With the locative \{#with-the-locative}
 
 * :isv[o, ob] – about; concerning, regarding
 * :isv[po] – after, following; along(side); throughout, round, all over
 * :isv[pri] – near; during (rule of a king)
 
-## With the accusative and the instrumental
+## With the accusative and the instrumental \{#with-the-accusative-and-the-instrumental}
 
 The following five prepositions refer to place and (if applicable) time.
-The instrumental is used when the location is stable (:isv[Kot spi pod stolom] – "The cat is sleeping under the table"), the accusative expresses a motion toward it (:isv[Kot poběgl pod stol] – "The cat fled under the table").
+The instrumental is used when the location is stable (:isv[Kot spi pod stolom] – „The cat is sleeping under the table”), the accusative expresses a motion toward it (:isv[Kot poběgl pod stol] – „The cat fled under the table”).
 
 The preposition :isv[za] can also be used with the genitive and (in other meanings) the accusative, but because otherwise it belongs to the same category as the rest, it has been listed there separately.
 
@@ -98,21 +97,21 @@ The preposition :isv[za] can also be used with the genitive and (in other meanin
 * :isv[prěd] – before, in front of, ahead of (place & time), prior to, ago
 * :isv[za] – behind (place), after (time)
 
-## With the accusative and the locative
+## With the accusative and the locative \{#with-the-accusative-and-the-locative}
 
 The prepositions :isv[v] and :isv[na] behave exactly like the previous category, except that for a stable location the locative is used instead of the instrumental.
 
 * :isv[na] (+ :abbr[loc.]) – on, at; (+ :abbr[acc.]) – on(to), unto
 * :isv[v, vo] (+ :abbr[loc.]) – in, within; (+ :abbr[acc.]) – into
 
-## Prepositional constructions
+## Prepositional constructions \{#prepositional-constructions}
 
 The following combinations are no real prepositions, but are used as such and are often translated as prepositions. The list is of course far from being exhaustive.
 
 * :isv[bez obzira na] (:abbr[acc.]) – regardless
 * :isv[čto se tyče] (:abbr[gen.]) – regarding, with regard to
 * :isv[na prěkor] (:abbr[gen.]) – in defiance of
-* :isv[ne gledajuči na] (:abbr[acc.]) – disregarding, despite, in spite of, * notwithstanding
+* :isv[ne gledajuči na] (:abbr[acc.]) – disregarding, despite, in spite of, notwithstanding
 * :isv[od strany] (:abbr[gen.]) – by, on the part of
 * :isv[po odnošenju k] (:abbr[dat.]) – regarding, with regard to
 * :isv[pod vodstvom] (:abbr[gen.]) – under the leadership of
