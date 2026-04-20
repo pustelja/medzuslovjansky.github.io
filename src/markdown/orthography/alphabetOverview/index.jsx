@@ -40,7 +40,7 @@ const LETTERS = [
   ["R", <><IPA>r</IPA></>],
   ["Ŕ", <><IPA>rʲ</IPA> ~ <IPA>r̝</IPA></>],
   ["S", <><IPA>s</IPA></>],
-  ["Ś", <><IPA>ɛ</IPA> ~ <IPA>ǝ</IPA></>],
+  ["Ś", <><IPA>sʲ</IPA> ~ <IPA>ɕ</IPA></>],
   ["Š", <><IPA>ʃ</IPA> ~ <IPA>ʂ</IPA></>],
   ["T", <><IPA>t</IPA></>],
   ["T́", <><IPA>tʲ</IPA> ~ <IPA>c</IPA></>],
@@ -48,7 +48,7 @@ const LETTERS = [
   ["Ų", <><IPA>o</IPA> ~ <IPA>ʊ</IPA></>],
   ["V", <><IPA>v</IPA> ~ <IPA>ʋ</IPA></>],
   ["Y", <><IPA>i</IPA> ~ <IPA>ɨ</IPA></>],
-  ["Z", <><IPA>ɛ</IPA> ~ <IPA>z</IPA></>],
+  ["Z", <><IPA>z</IPA></>],
   ["Ź", <><IPA>zʲ</IPA> ~ <IPA>ʑ</IPA></>],
   ["Ž", <><IPA>ʒ</IPA> ~ <IPA>ʐ</IPA></>]
 ];
