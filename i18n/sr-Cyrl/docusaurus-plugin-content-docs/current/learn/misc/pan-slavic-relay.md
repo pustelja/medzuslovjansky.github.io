@@ -14,27 +14,27 @@ last_update:
 
 „Штафетна игра“ је у суштини варијација телефонске игре: неко напише песму или кратак одломак на свом конструисаном језику и пренесе га следећем учеснику. Та особа дешифрује текст и потом шаље превод на свом језику следећем у реду, и тако даље и тако све док се не врати пуним кругом, измењен, такорећи трансформисан од стране богова, и који садржи нову мудрост. Ову игру су цонлангерс играли скоро двадесет пута. Ова штафета се донекле разликује од осталих штафета, јер се састоји само од словенских помоћних језика. Сваки учесник је имао 48 сати да изврши задатак. Ако је његов језик користио више ортографија (тј. латиницу насупрот ћирилици), могао би, наравно, послати оба.
 
-## Оригинални енглески текст
+## Оригинални енглески текст \{#original-english-text}
 
 _Ево оригиналног енглеског текста Мери Расел Митфорд, написаног у првој половини КСИКС века. Наравно, скраћено је, а неки изрази које је било претешко изразити на словенском језику су упрошћени._
 
 Од свих ситуација за стално становање, оно што ми се чини најсимпатичнијим је мало село далеко на селу, мала четврт, не са финим вилама са финим становништвом, већ са викендицама и кућицама налик на викендицу, \<...> овакви безобразни и неописиви станови, са становницима чија су нам лица позната као цвеће у нашој башти; мали наш свет, тесно збијен и изолован као мрави у мравињаку, или пчеле у кошници, или овце у тору, или монахиње у манастиру, или морнари у броду; где сваког познајемо, свакоме смо познати, за сваког се интересујемо и овлашћени да се надамо да свако осећа интересовање за нас. Како је пријатно клизити у ова искрена осећања из љубазног и несвесног утицаја навике, и научити да знамо и да волимо људе о себи, са свим њиховим посебностима, као што учимо да знамо и да волимо кутке и скретања сеновитих уличица и сунчаних обичних места којима свакодневно пролазимо. \<...> А мали крај је добар у трезвеној будној стварности као и у поезији или прози; насељена четврт, \<...> дуга вијугава улица у дну лепе еминенције, са путем кроз њу, увек обилним запрегама, коњаницима и кочијама. \<...> Хоћеш ли прошетати са мном кроз наше село, уљудни читаоче? Путовање није дуго. Почећемо од доњег краја и наставити уз брдо.
 
-## Андреј Морачевски – Словенски
+## Андреј Морачевски – Словенски \{#moraczewski-slovianski}
 
-### `Naše selo`
+### `Naše selo` \{#moraczewski-lat}
 
 :::notr
 Od vsih vozmožnosť postojanogo prebivanja, to, čo javi se mi najviše radostnim, je malo selo daleko od grodskogo šuma; malo sosedstvo. To sut ne polno-naselene mnogokomnatne domi, ale drevene seľske domiki, tute proste i ne-opisujeme žilišča, s obitateľami, čii lica sut tak dobro znane, kak cveti v našom sade; mali osobni svet, tesno sjedineni i zatvoreni, kak mrovki v mrovišče, ili pčeli v uľe, ili ovci v ovčarňe, ili mniški v konvente, ili moreplavateľ na korabľe; gde vsaki znaje vsakogo i je znani dľa vsakogo; interesuje se vsakim, i je dozvoleni imať nadeju, že každi čuje interes do njego. Koľko že je radostno zanuriť v tute istine serdečne čutenja milogo i nevedomogo vpliva privičaja, i poznať i poľubiť vseh ľudov okolo nas, so vsimi ih osobenosťami, prosto kak mi poznavamo i ľubimo zakutki i povroti tenistih ulic i solnečne luki, ktore mi prohodimo každi deň. I malo společenstvo je najviše dobro kak v trezvoj stvornosti, tak i v poezii ili proze; seľsko sosedstvo; dolga, rozprostranjena motajuča se ulica u podnožja miloj vozvišinosti, s cestoju poprek, vsegda zapolnenoj vozami i konnikami. Ne želate li vi projdeť so mnoju prez naše selo, ľubezni čitateľ? Putovanje ne bude dolgim. Mi počnemo na doľnom konce, i prodolžimo na vzgorje.
 :::
 
-### `Наше село`
+### `Наше село` \{#moraczewski-cyr}
 
 :::notr
 Од всих возможность постояного пребиваня то, чо яви се ми найвише радостним, є мало село далеко од гродского шума; мало соседство. То сут не полно-населене многокомнатне доми, але древене сельске домики, туте просте и не-описуєме жилишча, с обитателями, чии лица сут так добро знане, как цвети в нашом саде; мали особни свет, тесно сьединени и затворени, как мровки в мровишче, или пчели в улье, или овци в овчарнье, или мнишка в конвенте, или мореплаватель на кораблье; где всаки знає всакого и є знани для всакого; интересує се всаким, и є дозволени имать надею, же кажди чує интерес до ньего. Колько же є радостно занурить в туте истине сердечне чутеня милого и неведомого вплива привичая, и познать и полюбить всех людов около нас, со всими их особеностями, просто как ми познавамо и любимо закутки и повроти тенистих улиц и солнечне луки, кторе ми проходимо кажди день. И мало сполеченство є найвише добро как в трезвой створности, так и в поезии или прозе; сельско соседство; долга, розпространьена мотаюча се улица у подножя милой возвишиности, с цестою попрек, всегда заполненой возами и конниками. Не желате ли ви пройдеть со мною през наше село, любезни читатель? Путованье не буде долгим. Ми почнемо на дольном конце, и продолжимо на взгорье.
 :::
 
-### Наше село (превод на енглески Стеевен Радзиковски)
+### Наше село (превод на енглески Стеевен Радзиковски) \{#our-village-en}
 
 Од свих могућих идеалних места за живот, оно што ми највише прија, је мало село које је далеко од градске вреве; мало комшилуку. Нема ту пренатрпаних вишесобних зграда, само мале дрвене кућице – једноставне и неописиве настамбе, са становницима чија су лица врло позната, попут цвећа у нашој башти; свет са мало људи, тесно уједињених и затворених, као мрави у колонији мрава, или пчеле у кошници, или овце у тору, или монахиње у манастиру, или морнари на броду; где свако свакога познаје и сви га познају; је заинтересован за свакога, и дозвољено му је да се нада да су други заинтересовани за њега.
 Како би било радосно уронити у ова искрена, срдачна осећања драгих и непознатих утицаја навике, упознати и заволети људе око себе, са свим њиховим карактеристикама, баш као што смо познати и волимо углове и скретања сеновитих улица и сунчаних ливада којима свакодневно пролазимо.
@@ -42,9 +42,9 @@ Od vsih vozmožnosť postojanogo prebivanja, to, čo javi se mi najviše radostn
 
 ---
 
-## Стевен Радзиковски – Словиоски
+## Стевен Радзиковски – Словиоски \{#radzikowski-slovioski}
 
-### `Našjo Selo`
+### `Našjo Selo` \{#radzikowski-lat}
 
 :::notr
 Ot vseh možnih idealnih mestum domovit, to ktorjo mne najvinše radosti, jes maljo selo dalekuo ot šumu velgroda; maljo sosedstvo. U njego ne sou libkaj perepolnih mnoguokomantnih domi; tolko seloje drevonje domki – prostnje i neopisanje domovenii, so obitatelami čoje lici sou velme poznalnuo, tak kak ksveti v našju ogrodu/sadu; svet so nemnogami obsobami, blizuo sojedilnje i zatvorilnje – kak muravi v muravištiu, ili pčeli v pčeldomu, ili ovci vo ovecdomu, ili monahici v monahdomu, ili korabniki na korabu; gde vsekto zna vsektum i znatnjo po vsektum; intersova-se vsektem, i pozvoli-se imat nadežu že inni nim zainteresovajut-se.
@@ -54,9 +54,9 @@ Uverenuo, malij společnost jes najlepšij ocenitnij v svoju pravdnju formu; tak
 
 ---
 
-## Јацк Равен – Словио
+## Јацк Равен – Словио \{#raven-slovio}
 
-### `Nasx Malgrod`
+### `Nasx Malgrod` \{#raven-lat}
 
 :::notr
 Ot vse mozxju idealju mestis domovit, to ktor me maks radostijt, es malju malgrod dalekuo ot sxum velgroduf; malju sosedstvo. On ne ima libkai perepolnju mnoguo-komnatju domis; tolko malju drevnoju budkis – prostju i neopisanju domovenies, so obitatelis cxoi licis esijut velme poznalnuo, tak kak kvitis v nasx ogrod; svet s nemnoguo obsobnikis, blizuo sodinju i zakritilju – kak muravis v muravisxtie, ili pcxelis v pcxeldom, ili ovecis vo ovecdom, ili monahicis v monahdom, ili korabnikis na korab; gde vsekto znajt vsektuf i es znalju po vsektuf; es intersovalju vsektifs, i es pozvolilju imat nadezx zxe inis es interesovalju onuf.
@@ -66,9 +66,9 @@ Uverenuo, malju socialgrup es naidobrju ocenilju vo svoi pravdaju form; tak odna
 
 ---
 
-## Ростислав Левченко – Словенски
+## Ростислав Левченко – Словенски \{#levcenko-slovianski}
 
-### `Naše selo`
+### `Naše selo` \{#levcenko-lat}
 
 :::notr
 Iz vseh možlivih idealnih mest dl'a žitja, to ktore me naj više radosti, jest male selo daleke od šumnih grodov, male sosedstvo. Ono ne ima libojake prepolnene mnogo-komnatne domi, tol'ko male drevjane domeki – proste i ne mal'ovane mesta obitanja, s obitatel'ami čije obliča jesut dobro znane jak cveti v našem ogrode. To jest zatvoreni svet s nemnogimi individami blizko sojedinenimi – jak mrovki v mrovkovoj uzvisine, ili pčeli v pčelovom domeke, ili ovci v ovcovom domeke, ili mnihi v mnihskom dome, ili morniki na korabl'e; gde vsekto zna vseh i jest znani vsemi, interesuje se ob vseh, i može imat' nadeju što ine interesujut se ob im.
@@ -78,9 +78,9 @@ Uvereno, mala social'na grupa, sel'ske sosedstvo jest' naj više dobro oceneno j
 
 ---
 
-## Јука Хинтсала – Славски.
+## Јука Хинтсала – Славски. \{#hintsala-slavski}
 
-### `Naše selo`
+### `Naše selo` \{#hintsala-lat}
 
 :::notr
 Iz vsou vozmozmou idealnou mestou živenja, to ktoro ja najviše volim, je malo selo daleko od šumlivou gradou, malo sosedstvo. Ono neima nekaki prepleni hohausi, tilko mali derevni budi – prosta i nemalovata mesta živenja, sa žitelnami koga lica su dobre znajomi kak kveti u naše dvore. To je zakritni mir sa nemnogami osobami blizko sajednitami – kak muraški u muraškove kupe, ili pčeli u pčelove gnezde, ili ovci u ovcove dome, ili monahi u monastire, ili moreki na loda: gde vsi zna vsou i je znajomi vsami, i interesa se o vsah, i može imati nadeždu čo drugi interesa se o im.
@@ -90,9 +90,9 @@ Naravno, mala socialna grupa, selovo sosedstvo je najviše dobre zadekata kak u 
 
 ---
 
-## Јан ван Стеенберген – Словенски
+## Јан ван Стеенберген – Словенски \{#steenbergen-slovianski}
 
-### `Naše selo`
+### `Naše selo` \{#steenbergen-slovianski-lat}
 
 :::notr
 Iz vsih možlivih ideal’nih mest, v ktorih živut ljudi, ja najviše-mnogo ljubim male selo, daleko od šumnogo groda, s jego maloju společnostju. Ono ne ima prepolnenih blokov, tol’ko male drevjane budinki – proste i malovatel’ne mesto dlja žitja, s žiteljami, ktorih obliča sut rovno znajome kak cveti v našem sade. To je zatvoreni svet s nemnogo ljudami, blizko sojedinenimi kak mrovki v mrovkovoj kope, pčeli v pčel’nike, ovci v ovečkom gumne, muhi v mušskom gnezde ili morniki na korable, gde vsekto znaje vsekogo i vsekto je znani od vsekogo, gde každi interesuje sja v každom i každi može imat’ nadeju, čo inokto interesuje sja v nim.
@@ -100,7 +100,7 @@ Kak milo bilo bi zanurit’ sja v to serdečne čuvstvo ljubenija i neznanih obi
 Libokak, mala social’na grupa, ktora je sel’ska společnost’, je to, čemu poezija i proza djakujut najviše-mnogo. Dolga, roztjagnuta droga, bludžuča sja v milom, teplom dne i prehodžuča veliku, široku drogu polnu avt i tirov. Vi ne hočete putovat’ s mnoju, droge čitateli? Put’ ne bude dolga. Mi počeme na konce dolini i odtud poideme v goru.
 :::
 
-### `Наше село`
+### `Наше село` \{#steenbergen-slovianski-cyr}
 
 :::notr
 Из всих можливих идеальних мест, в кторих живут люди, я найвише-много любим мале село, далеко од шумного грода, с йего малою сполечностю. Оно не има преполнених блоков, только мале древяне будинки – просте и маловательне место для житя, с жителями, кторих облича сут ровно знайоме как цвети в нашем саде. То йе затворени свет с немного людами, близко сойединеними как мровки в мровковой копе, пчели в пчельнике, овци в овечком гумне, мухи в мушском гнезде или морники на корабле, где всекто знайе всекого и всекто йе знани од всекого, где кажди интересуйе ся в каждом и кажди може имать надею, чо инокто интересуйе ся в ним.
@@ -110,9 +110,9 @@ Libokak, mala social’na grupa, ktora je sel’ska společnost’, je to, čemu
 
 ---
 
-## Михал Боровичка – Словиоски
+## Михал Боровичка – Словиоски \{#borovicka-slovioski}
 
-### `Našje selo`
+### `Našje selo` \{#borovicka-lat}
 
 :::notr
 Iz vse možnih idealnih mestum, vo ktorih živjut ludi, ja najbolšju lubim maljo selo. dalkuo od šumnju grodu, s jego malju komunu, Ono ne ima perepolnih budovum , tolk malje drevnoje domi – prostjo i obraznjo mesto dla životu.
@@ -126,9 +126,9 @@ Put ne bude dolgja. Mi načime na koncu dolinu i ot tut mi budeme idit v goru.
 
 ---
 
-## Игор Пољаков – Словенски
+## Игор Пољаков – Словенски \{#polyakov-slovianski}
 
-### `Naše selo`
+### `Naše selo` \{#polyakov-lat}
 
 :::notr
 Iz vseh idealnih mest, gde živut ludi, ja najviše lubju maleńke seło. Daleko od šumnogo groda, s jego maleńkoj jednostju, ono ne ima prepołnenih budinkov; tolko malenki drevjane doma – proste i obrazcove mesto dla žitija.
@@ -139,15 +139,13 @@ Luba maleńka socialna grupa, jak selska jednosť, je to što poezija i proza hv
 
 ---
 
-####
-
-Након завршетка штафетне игре, додато је неколико превода:
+#### Након завршетка штафетне игре, додато је неколико превода: \{#later-additions}
 
 ---
 
-## Војтецх Мерунка – Новословиенски
+## Војтецх Мерунка – Новословиенски \{#merunka-novoslovienski}
 
-### `Naše selo`
+### `Naše selo` \{#merunka-novoslovienski-lat}
 
 :::notr
 Iz vsih možnih idealnih miest, v ktorih žijut ljudi, najbolie ljubiu male selo, daleko od šumnego grada, s jego maloj obštinoj. Ono ne imaje prep‘lnienih blokov, samo male d‘rvene budinky. Jest to proste i malovatielne miesto za života, s žitielami, ktorih lica sut rovno znajemi jako cviety v našem sadie. To jest zatvorienij sviet s nemnogo ljudiami, blizko s‘jedinenimi jako mravky v mravkovej kopie, pčely v pčel’nikie, ovcy v ovcem gumnie, monašky v monastirie ili morniki na korabie, gdie vsij znaje vsego i vse je znane ot vsego, gdie vsij se interesuje v vsem i vsij može imati nadeju, že niekto se v niem interesuje.
@@ -156,16 +154,16 @@ Jako mile by bylo zanoriti se v to s‘rdečne čuvstvo ljubienia i neznamih oby
 
 ---
 
-## Јан ван Стеенберген – Словианто
+## Јан ван Стеенберген – Словианто \{#steenbergen-slovianto}
 
-### `Naš selo`
+### `Naš selo` \{#steenbergen-slovianto-lat}
 
 :::notr
 Iz vse možlive mesti, v ktore živet liudi, ja najviše-mnogo liubim male selo, daleko od šumne grod, s jego male společnost. Ono ne imat prepolniene bloki, jedino male drevenne budinki. Jest to proste i malovatelne mesto dlia žitie, s žiteli, čij lici jest rovno znane kak cveti v naš sad. To jest zatvoriene svet s nemnogo liudi, blizko sojediniene kak mrovki v mrovske kopa, pčeli v pčelnik, ovci v ovčarnia, mniški v konvent, ili morniki na korabia, gde vsekto znat vsekogo i vsekto jest znane od vsekogo, gde vsekto interesujet se v vsekogo i vsekto možet imati nadeja, čo nekto interesujet se v njego.
 Kak milo bilo bi zanuriti se v te serdečne čutie od liubienie i neznane običaji, sobrati se i biti prijateli s te vse jedinstvene liudi okolo nas! Tak, čo mi budem znati vse zakutki i povroti od tenke ulici i solnečne luki, ktore mi prohodim každe den. Male socialne grupa, ktore jest selske společnost, jest to, za čo poezija i proza diakujet najviše-mnogo. Dolge, roztiagnute droga, bludijuče se v mile, teple den i preiduče prez velike, široke droga, polne od avti i tiri. Li vi ne hočete putovati s mene, droge čitateli? Put ne budet dolge. Mi počam na konec od dolina i odtude mi poidem v gora.
 :::
 
-### `Наш село`
+### `Наш село` \{#steenbergen-slovianto-cyr}
 
 :::notr
 Из все можливе мести, в кторе живет люди, я найвише-много любим мале село, далеко од шумне грод, с его мале сполечност. Оно не имат преполньене блоки, едино мале древенне будинки. Ест то просте и малователне место для житье, с жители, чий лици ест ровно знане как цвети в наш сад. То ест затворьене свет с немного люди, близко соединьене как мровки в мровске копа, пчели в пчелник, овци в овчарня, мнишки в конвент, или морники на корабя, где всекто знат всекого и всекто ест знане од всекого, где всекто интересует се в всекого и всекто может имати надея, чо некто интересует се в него.
@@ -174,16 +172,16 @@ Kak milo bilo bi zanuriti se v te serdečne čutie od liubienie i neznane običa
 
 ---
 
-## Војтецх Мерунка – Новословенски (реформисани)
+## Војтецх Мерунка – Новословенски (реформисани) \{#merunka-novoslovienski-reformed}
 
-### `Naše selo`
+### `Naše selo` \{#merunka-novoslovienski-reformed-lat}
 
 :::notr
 Iz vsih možnih idealnih miest, v kojihže žijut ljudi, najbolie ljubiu male selo, daleko ot šumnego grada, s jego maloj obštinoj. Ono ne imaje prep‘lnieni bloky, samo male d‘rvene budniky. Jest to proste i slične miesto za života, s žitieljami, ktorih lica sut rovno znajemi jako cviety v našem sadie. To jest zatvorienij sviet s nemnogo ljudiami, blizko s‘jednienimi jako mravky v mravkovej kupie, pčely v pčelnikie, ovcy v ovcej štalie, monahi v monastirie ili morjaki na korabie, gdie vsij znaje vsego i vse jest znane ot vsego, gdie vsij se interesuje v vsim i vsij može imati nadeju, že niekto se v niem interesuje.
 Jako drago by bylo zanoriti se v to s‘rdečne čuvstvo ljubienia i neznamih upotreb, s‘brati se i byti kolegy s tiemi vsimi jedinstvenimi ljudimi okolo nas! Tako, že my budeme znati i ljubiti vsi zakuty i povraty tenkih ulic i s‘lncom pokryti luki, črez koježe budeme hoditi vsij den ot jutra do večera. Mala socialna gruppa, iže jest selska obština, jest to, čemuže poezia i proza blagodari najbolie. Ide tamo uzka droga, iže v lepem teplem dni prehodi veliku široku drogu p‘lnu aut i tirov. Ne hočete li putovati s mnoj, dragij čitatieli? Put ne bude d‘lga. My budeme putovati ot počatku doliny i ot‘tamo ideme nagorie.
 :::
 
-### `Наше село`
+### `Наше село` \{#merunka-novoslovienski-reformed-cyr}
 
 :::notr
 Из всих можних идеалних міест, в койихже жийут људи, найболіе љубю мале село, далеко от шумнего града, с єго малой общиной. Оно не имайе препълніени блокы, само мале дървене будники. Єст то просте и сличне міесто за живота, с житіељами, кторих лица сут ровно знайеми яко цвіеты в нашем садіе. То іест затворіеній свіет с немного људіами, близко съйедніеними яко мравки в мравковей купіе, пчелы в пчелникіе, овцы в овцей шталіе, монахи в монастиріе или морьаки на корабіе, гдіе всій знайе всего и все єст знане от всего, гдіе всій се интересуйе в всим и всій може имати надейу, же ніекто се в ніем интересуйе.
